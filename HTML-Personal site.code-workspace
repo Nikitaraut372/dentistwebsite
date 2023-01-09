@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/Web Development/practicals/HTML-Personal site"
+		},
+		{
+			"path": "D:/Web Development/practicals/JFST_Project"
+		},
+		{
+			"path": "D:/Web Development/practicals/demowebsite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "demowebsite"
+	}
+}
